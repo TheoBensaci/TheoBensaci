@@ -7,7 +7,7 @@
         <img align="center" src="./gitIcon.png"  width="50px">
         <label style="margin-left:10px;font-weight: bold;">Alt git</label>
     </a>
-    <a href="https://github.com/Me-Theo" width="20%" style="display:flex;align-items:center;margin-left:20px;">
+    <a href="https://github.com/Me-Theo" width="20%" style="display:flex;align-items:center;margin-left:30px;">
         <img align="center" src="./itchIoIcon.png"  width="50px">
         <label style="margin-left:10px;font-weight: bold;">Personal Itch.io</label>
     </a>
