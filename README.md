@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="./about.gif"  width="80%" style="border-radius: 25px;">
+    <img align="center" src="./about.gif"  width="40%" style="border-radius: 25px;">
 </p>
 :]
 <div style="display:flex; justify-content:space-around">
