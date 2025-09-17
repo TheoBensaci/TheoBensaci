@@ -1,9 +1,17 @@
 <p align="center">
     <img align="center" src="./about.gif"  width="80%">
 </p>
-
-- [oder git account](https://github.com/Me-Theo)
-- [Itch.io](https://me-theo.itch.io/)
+:]
+<p style="display:flex; justify-content:space-around">
+    <a href="https://github.com/Me-Theo" width="20%" style="display:flex;align-items:center">
+        <img align="center" src="./gitIcon.png"  width="50px">
+        <label style="margin-left:10px;font-weight: bold;">Alt git</label>
+    </a>
+    <a href="https://github.com/Me-Theo" width="20%" style="display:flex;align-items:center">
+        <img align="center" src="./itchIoIcon.png"  width="50px">
+        <label style="margin-left:10px;font-weight: bold;">Personal Itch.io</label>
+    </a>
+</p>
 <!--
 **TheoBensaci/TheoBensaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
