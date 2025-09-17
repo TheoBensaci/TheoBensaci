@@ -1,5 +1,9 @@
-## Hi there 👋
+<p align="center">
+    <img align="center" src="./about.gif"  width="80%">
+</p>
 
+- [oder git account](https://github.com/Me-Theo)
+- [Itch.io](https://me-theo.itch.io/)
 <!--
 **TheoBensaci/TheoBensaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
